@@ -1,5 +1,13 @@
-IamAI 
+- 👋 Hi, I’m @tanay-683
 
-love to do the research stuff in the field of ai
+- 👀 I’m interested in LLMs
 
-Also enjoying coding the llms from scratch 
+- 🌱 I’m currently learning to make LLMs from scratch
+
+- 💞️ I’m looking to collaborate on ...
+
+- 📫 How to reach me ... no need to reach me until i've done something
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ... IAmAI
